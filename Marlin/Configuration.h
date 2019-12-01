@@ -835,7 +835,7 @@
 //ANET A6 with BLTouch/3D-Touch mounted right to the nozzel
 #define X_PROBE_OFFSET_FROM_EXTRUDER -6 // X offset: -left  +right  [of the nozzle]
 #define Y_PROBE_OFFSET_FROM_EXTRUDER  -63 // Y offset: -front +behind [the nozzle]
-#define Z_PROBE_OFFSET_FROM_EXTRUDER  -16.15 // Z offset: -below +above  [the nozzle]
+#define Z_PROBE_OFFSET_FROM_EXTRUDER  -16.10 // Z offset: -below +above  [the nozzle]
 
 //ANET A6 with BLTouch/3D-Touch betwen Fan and Belt
 // (mount: https://github.com/ralf-e/ANET_A6_modifications/tree/master/A6_X-Axis)
